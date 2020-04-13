@@ -11,4 +11,4 @@ a virtual world where users can walk around and between embedded iframes (like l
 
 ---
 
-![example](https://github.com/spencercap/playworld/example.png "example")
+![example](https://spencercap.github.io/playworld/example.png "example")
